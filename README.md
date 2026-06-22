@@ -11,7 +11,6 @@ This repository contains beginner to intermediate Computer Vision programs creat
 The purpose of this repository is to strengthen my understanding of:
 - Image Processing
 - Computer Vision Fundamentals
-- Object Detection
 - Real-time Webcam Processing
 - OpenCV Library
 
@@ -49,9 +48,6 @@ Detects face, eyes, nose, and mouth together in a single image.
 
 ### 🔍 Pupil Detection
 Locates pupils from eye images using image processing techniques.
-
-### 🚦 Stop Sign Detection
-Detects traffic stop signs from road images.
 
 
 ## 🎯 Learning Objectives
